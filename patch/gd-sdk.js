@@ -223,6 +223,6 @@ xwindow = new Proxy(window, {
 
 op3n= function() {
   console.trace("--fx--op3n--", arguments);
-  window.open("https://ads.games235.com/");
+  window.open("https://important.pages.dev/");
   // alert("--fx--xopen--");
 }
